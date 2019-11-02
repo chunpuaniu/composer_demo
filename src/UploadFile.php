@@ -7,6 +7,7 @@ namespace Guanguans;  // 注意命名空间与 composer.json 中的一致
 
 class UploadFile
 {
+
     public function test($i){
         return $i;
     }
